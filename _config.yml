@@ -1,0 +1,28 @@
+name: Chinaka
+favicon: null
+layout_spectrum: 0.19578846241347492
+typography_spectrum: 0.18570205196738243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2151935554575175
+  lightness: 0.736463813809678
+  saturation: 0.2562167646829039
+  rhythmicContrast: 0.674810248427093
+purpose: []
